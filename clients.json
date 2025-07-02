@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "id": "2a218965-bd0b-416e-99ea-754d0fc4a411",
+      "name": "Jeferson",
+      "phone": "558299158412",
+      "plan_type": "IPTV",
+      "value": 20.0,
+      "plan_duration": "2025-07-13",
+      "reminder_time_3days": "09:00",
+      "reminder_time_payment": "10:00",
+      "custom_message_3days": "🚨 Sua Assinatura de IPTV Está Prestes a Expirar! Renove Agora!\r\n\r\nOlá, {name}! 👋\r\n\r\nEstamos passando para lembrá-lo de que sua assinatura do IPTV está quase no fim. ⏳ Mas não se preocupe, você pode renovar facilmente e continuar curtindo seus programas e canais favoritos! 📺🎉\r\n\r\n📅 Data de Expiração: {expires_at}\r\n\r\n🔄 Opções de Renovação:\r\n\r\nPacote Mensal: R$: 20,00 💰\r\nPacote Bimestral: R$: 35,00💲\r\nPacote Trimestral: R$: 50,00 💵\r\nPacote Semestral: R$: 100,00 🤑\r\nPacote Anual: R$: 200,00 💎\r\n\r\n✅Pagamento:\r\n🔑Chave Pix (Telefone):\r\n*(82) 99604-6178*\r\n🏦Banco Banco PicPay\r\n👩‍🦰Maria Danila Silva De Oliveira\r\n\r\nFicou com dúvidas ou precisa de ajuda? Estamos aqui para você! 😃\r\n\r\n📞 Entre em contato:\r\nWhatsApp: *(82) 9 9915-8412* 📲\r\n\r\nGaranta seu entretenimento sem interrupções renovando hoje mesmo! 😎 Se precisar de ajuda, estamos aqui para você! 💬\r\n\r\nAtenciosamente,\r\nJeferson",
+      "custom_message_payment": "",
+      "created_at": "2025-07-02T17:43:16.412774"
+    }
+  ]
+}
